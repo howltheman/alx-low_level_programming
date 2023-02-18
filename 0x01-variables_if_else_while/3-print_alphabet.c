@@ -16,6 +16,7 @@ for (c = 'a'; c <= 'z'; c++)
 /* Print each character using putchar*/
 putchar(c);
 }
+putchar('\n');
 
 /* Iterate through the alphabet from 'A' to 'Z'*/
 for (c = 'A'; c <= 'Z'; c++)
@@ -23,7 +24,7 @@ for (c = 'A'; c <= 'Z'; c++)
 /*Print each character using putchar*/
 putchar(c);
 }
-
+putchar('\n');
 /*Return 0 to indicate success*/
 return (0);
 }

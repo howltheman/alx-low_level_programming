@@ -16,6 +16,7 @@ for (c = 'a'; c <= 'z'; c++)
 /* Print each character using putchar*/
 putchar(c);
 }
+putchar('\n');
 
 /* Return 0 to indicate success*/
 return (0);
