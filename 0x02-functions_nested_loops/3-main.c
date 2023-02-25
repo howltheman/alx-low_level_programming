@@ -1,5 +1,5 @@
-julien@ubuntu:~/0x02$ cat 3-main.c 
 #include "main.h"
+#include <unistd.h>
 
 /**
  * main - check the code.
