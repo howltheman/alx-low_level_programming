@@ -3,8 +3,8 @@
 #include <string.h>
 
 /**
- * print_reverse - prints a string in reverse
- * @str: pointer to the string to print
+ * print_rev - prints a string in reverse
+ * @s: pointer to the string to print
  *
  * Description: This function takes a string as input and prints it in reverse
  * order, followed by a newline character.
